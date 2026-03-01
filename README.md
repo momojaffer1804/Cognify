@@ -146,4 +146,4 @@ Cognify is an AI-assisted screening tool built for educational purposes. It does
 
 ## Author
 
-**Rehan** — Built as an end-to-end ML portfolio project
+**Mohammad Jaffer Hussin** — Built as an end-to-end ML portfolio project
